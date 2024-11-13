@@ -26,7 +26,7 @@ Thanks to the people who debated, disagreed, contributed, and communicated with 
     <img src="https://github.com/theamazing0.png" width="100" height="100" alt="TheAmazing0" />
   </a>
   <a href="about:blank" target="_blank">
-    <img src="https://github.com/CaenJones/ChromeSEC/blob/main/src/GC.png" width="100" height="100" alt="ChromeSEC GC" />
+    <img src="https://github.com/CaenJones/ChromeSEC/blob/main/src/GC.png" width="100" height="100" alt="ChromeSEX GC" />
   </a>
   
   ![alt text](https://github.com/CaenJones/ChromeSEC/blob/main/src/kas.jpg?raw=true)
