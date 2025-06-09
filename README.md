@@ -1,5 +1,5 @@
-# lol this is basically an archive of the original repo now
-# do note that this is not the latest version of it though
+# Update 9/6/25: This is an archive of the original repo now. Do note that this is not the latest version of it though.
+## This used to be called ChromeS*X by the way.
 
 <img src="https://github.com/S-PScripts/ChromeSEC-archived/blob/main/src/ChromeSEC-archived%20Logo.png?raw=true" alt="ChromeSEC-archived Logo.png"/>
 
