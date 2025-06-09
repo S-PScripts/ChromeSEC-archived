@@ -1,7 +1,7 @@
 # lol this is basically an archive of the original repo now
 # do note that this is not the latest version of it though
 
-<img src="https://github.com/S-PScripts/ChromeSEX/blob/main/src/ChromeSEX%20Logo.png?raw=true" alt="ChromeSEX Logo.png"/>
+<img src="https://github.com/S-PScripts/ChromeSEC-archived/blob/main/src/ChromeSEC-archived%20Logo.png?raw=true" alt="ChromeSEC-archived Logo.png"/>
 
 > [!IMPORTANT]  
 > Countdown to KV5 starts... now!
@@ -10,11 +10,11 @@
 > Like this repo? Star and share it with another chromeOS admin! 😄
 
 # Introduction
-Hola! Welcome to ChromeSEX. We know that system administrators constantly work within their organization on numerous projects and often do not have the time to hunt for forum posts, decipher Google documentation, or pay for support.
+Hola! Welcome to ChromeSEC. We know that system administrators constantly work within their organization on numerous projects and often do not have the time to hunt for forum posts, decipher Google documentation, or pay for support.
 
 Because of this, we have created an always-changing, comprehensive guide to enable administrators to properly set up and secure their Chromebooks quickly.
 
-We are an open-source project, so if you would like to make a change or add something feel free to open a pull request! You can also check out our [acknowledgements page](https://github.com/S-PScripts/ChromeSEX/blob/main/Acknowledgements.md).
+We are an open-source project, so if you would like to make a change or add something feel free to open a pull request! You can also check out our [acknowledgements page](https://github.com/S-PScripts/ChromeSEC-archived/blob/main/Acknowledgements.md).
 
 # Securing Kiosk Applications
 Kiosk apps are often used for testing, payment consoles, and helpdesk systems. This makes it extremely important to protect and configure them to prevent tampering or the ability to misuse them as filtering and monitoring extensions are usually inactive. Here is how you can properly setup your Kiosk programs to run in a safe and secure manner. 
