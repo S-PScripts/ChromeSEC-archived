@@ -1,3 +1,6 @@
+# lol this is basically an archive of the original repo now
+# do note that this is not the latest version of it though
+
 <img src="https://github.com/S-PScripts/ChromeSEX/blob/main/src/ChromeSEX%20Logo.png?raw=true" alt="ChromeSEX Logo.png"/>
 
 > [!IMPORTANT]  
